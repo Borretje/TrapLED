@@ -23,6 +23,7 @@
 #define UIT     0x000000
 #define WIT     0xFFFFFF
 #define LWIT    0x222222
+#define PAARS   0xFFFF00
 
 /* Voids aanroepen en kenbaar maken     */
 
